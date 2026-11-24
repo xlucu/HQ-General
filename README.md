@@ -18,9 +18,9 @@ You need a 64-bit ARM Android device (Android 7.0 or later) with Vulkan 1.1 supp
 
 | Open | What you can do |
 | --- | --- |
-| **Display** | Adjust the view and split-screen appearance, choose a frame-rate target and configure thermal settings. Actual frame rate varies with the phone and the battle. |
-| **Language** | Select the interface language. Restart the game to apply it. Voice audio follows the installed game data. |
-| **Controls** | Choose a touch preset, edit gesture assignments, configure keyboard and mouse input, and save production groups for a building. The illustrated guides cover the command ring, drawing a route, the Humvee joystick and recalling groups. |
+| **Display** | Adjust the view, split-screen layout, frame-rate target and thermal settings. The renderer can target 60 FPS while the simulation runs at 30 updates per second. Large battles may run more slowly. |
+| **Language** | Choose from 15 interface languages. Restart the game to apply your selection. Voice audio follows the installed game data. |
+| **Controls** | Choose a touch preset, edit gesture assignments, configure keyboard and mouse input, and save up to three production groups for each building type in each army. The illustrated guides cover the command ring, drawing a route, the Humvee joystick and recalling groups. |
 | **Play online** | Read the step-by-step phone multiplayer guide, including how to set up the virtual network and find the host's address. |
 | **Game maintenance** | Schedule a file check and repair for the next launch, or export a diagnostic report when troubleshooting. |
 | **Add a map** | Import a skirmish map or a ZIP map pack from your phone. The touch guide also explains the folder layout. |
