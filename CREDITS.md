@@ -9,4 +9,4 @@
 - **Localization** — [MYSOREZ's Android port](https://github.com/MYSOREZ/GeneralsZH-Android-Port) for language resources. Font licenses and provenance are included with the application.
 - **Runtime libraries** include SDL, SDL_image, FreeType, OpenAL Soft, GameSpy SDK, GLM and FFmpeg. The startup movie is imported from the player's PC files. ZeroTier One is an independent networking app.
 
-The copyright and license notices of the original authors apply to their respective contributions.
+See the [third-party notices](THIRD-PARTY-NOTICES.md) for the licenses that accompany this release.
