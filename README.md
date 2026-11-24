@@ -42,4 +42,4 @@ This release is for **Android only**. An iOS version is planned for the future.
 
 ## Credits and licensing
 
-Xlucu leads the Android gameplay design, engine adaptation and integration for HQ General. This work builds on Electronic Arts' released engine, community Android and renderer ports, and community fixes. See [Credits](CREDITS.md) and the [engine license and EA additional terms](LICENSE.md). HQ General is a free, non-commercial community project. Original game assets and trademarks belong to their respective owners.
+Xlucu leads the Android gameplay design, engine adaptation and integration for HQ General. This work builds on Electronic Arts' released engine, community Android and renderer ports, and community fixes. See the [development history](CHANGELOG.md), [credits](CREDITS.md) and the [engine license and EA additional terms](LICENSE.md). HQ General is a free, non-commercial community project. Original game assets and trademarks belong to their respective owners.
